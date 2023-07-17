@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Heladera",
+    "precio": 15975,
+    "thumbnail": "www.foto.com/foto",
+    "id": 1
+  },
+  {
+    "nombre": "Lavarropas",
+    "precio": 3215,
+    "thumbnail": "www.foto.com/foto",
+    "id": 2
+  },
+  {
+    "nombre": "Cocina",
+    "precio": 98560,
+    "thumbnail": "www.foto.com/foto",
+    "id": 3
+  },
+  {
+    "nombre": "Tostadora",
+    "precio": 690,
+    "thumbnail": "www.foto.com/foto",
+    "id": 4
+  }
+]
